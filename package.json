@@ -26,6 +26,7 @@
     "@types/nodemailer": "^6.4.11",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "@types/styled-components": "^5.1.28",
     "autoprefixer": "latest",
     "postcss": "latest",
     "tailwindcss": "latest",
